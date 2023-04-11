@@ -1,5 +1,5 @@
 # pyttsx3-termux
-pyttsx3 and sl4a and py4a for termux
+**pyttsx3 and sl4a and py4a for [termux](https://wiki.termux.com)**
 
 This project is for setting up pyttsx3 in 
 Termux.
@@ -14,9 +14,7 @@ give a fork and a star.
 Installed from [f-droid](https://f-droid.org/),
 
 - run `apt-get update && apt-get upgrade`
-Before doing any of the following given 
-notes.
-
+Before doing any of the following notes.
 
 ## Installation-sl4a-py4a
 
