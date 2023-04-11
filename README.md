@@ -8,9 +8,9 @@ This repository has solutions to errors genrated
 by pyttsx3, To Help this project Maybe 
 give a fork and a star.
 
-PreRequirements:
+##### PreRequirements:
 
-For setting up you need to have termux 
+-For setting up you need to have termux 
 Installed from https://f-droid.org/, 
 Then install termux From there 
 run $ apt-get update && apt-get upgrade 
@@ -18,7 +18,7 @@ Before doing any of the following given
 notes.
 
 
-# Installation-sl4a-py4
+## Installation-sl4a-py4a
 
 SL4A download:
 https://tinyurl.com/3tctdsfe
@@ -26,7 +26,8 @@ https://tinyurl.com/3tctdsfe
 Py4A download:
 https://tinyurl.com/b9y3kmzj
 
-Original Dowloads
+Original Dowloads:
+
 
 python_scripts_r26:
 https://tinyurl.com/34k7xevs
