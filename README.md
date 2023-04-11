@@ -10,8 +10,9 @@ give a fork and a star.
 
 ##### PreRequirements:
 
--For setting up you need to have termux 
-Installed from https://f-droid.org/, 
+- For setting up you need to have termux 
+Installed from [f-droid](https://f-droid.org/),
+
 Then install termux From there 
 run $ apt-get update && apt-get upgrade 
 Before doing any of the following given 
