@@ -17,6 +17,7 @@ run $ apt-get update && apt-get upgrade
 Before doing any of the following given 
 notes.
 
+
 # Installation-sl4a-py4
 
 SL4A download:
@@ -24,6 +25,8 @@ https://tinyurl.com/3tctdsfe
 
 Py4A download:
 https://tinyurl.com/b9y3kmzj
+
+Original Dowloads
 
 python_scripts_r26:
 https://tinyurl.com/34k7xevs
